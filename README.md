@@ -19,14 +19,6 @@ Atualmente estou focado em desenvolver uma base sólida em **desenvolvimento de 
 <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.tiktok.com/@oreidosites">
-<img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok"/>
-</a>
-
-<a href="https://www.youtube.com/@oreidosites">
-<img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
 </p>
 
 ---
